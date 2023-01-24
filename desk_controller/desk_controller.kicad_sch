@@ -58,9 +58,6 @@
   )
 
   (symbol_instances
-    (path "/db620391-7eab-4a19-a118-90cd07b63a7b/0ec8e039-24ed-4cc6-874f-d0f632ffb61d"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/db620391-7eab-4a19-a118-90cd07b63a7b/905ed8a8-e86b-41f9-8ab4-23856edf2970"
       (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
     )
@@ -121,9 +118,6 @@
     (path "/d478e271-69ae-4db9-abd5-e3bbb9535bd9/81d71c74-5b35-4efb-8d5d-0a185c0a7df4"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/db620391-7eab-4a19-a118-90cd07b63a7b/91939178-807e-439a-9350-21f5646e7d5f"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/db620391-7eab-4a19-a118-90cd07b63a7b/97b05419-12c7-4a0c-9e0f-c30b9ab27647"
       (reference "#PWR?") (unit 1) (value "GND1") (footprint "")
     )
@@ -150,6 +144,12 @@
     )
     (path "/d478e271-69ae-4db9-abd5-e3bbb9535bd9/06486c8f-df10-4172-9f5d-c1ee27ac5705"
       (reference "C?") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/db620391-7eab-4a19-a118-90cd07b63a7b/1c387ec0-a930-4370-945e-b6a903bd781c"
+      (reference "C?") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/db620391-7eab-4a19-a118-90cd07b63a7b/6a8d1b4c-0fed-42ba-9df7-85ed62d16b04"
+      (reference "C?") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/d478e271-69ae-4db9-abd5-e3bbb9535bd9/7412ce0c-35e6-43cd-a0a9-7fb01b49661d"
       (reference "C?") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -271,8 +271,11 @@
     (path "/d478e271-69ae-4db9-abd5-e3bbb9535bd9/024fa6fa-c9c3-4234-9b5e-1119922be3ec"
       (reference "U?") (unit 1) (value "STM32F030K6T6") (footprint "Package_QFP:LQFP-32_7x7mm_P0.8mm")
     )
-    (path "/db620391-7eab-4a19-a118-90cd07b63a7b/4247e8bd-3512-4620-a801-7f8a81ad0525"
-      (reference "U?") (unit 1) (value "Si8640BA-B-IU") (footprint "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm")
+    (path "/db620391-7eab-4a19-a118-90cd07b63a7b/1340163b-1e23-4658-b820-5975084ce2f9"
+      (reference "U?") (unit 1) (value "AP2112K-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+    )
+    (path "/db620391-7eab-4a19-a118-90cd07b63a7b/7206fb01-1d2a-4707-9707-1d4020e228f1"
+      (reference "U?") (unit 1) (value "ISO7721DR") (footprint "SOIC127P599X175-8N")
     )
     (path "/d478e271-69ae-4db9-abd5-e3bbb9535bd9/7b0fbeb8-9658-4cda-9c7a-1b62f1f14099"
       (reference "U?") (unit 1) (value "PC817") (footprint "Package_DIP:DIP-4_W7.62mm")
