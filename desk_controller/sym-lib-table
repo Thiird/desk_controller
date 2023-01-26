@@ -1,3 +1,6 @@
 (sym_lib_table
   (lib (name "ISO7721DR")(type "KiCad")(uri "C:/F drive/Ste/DEV/desk_controller/local_libraries/symbols/ISO7721DR.kicad_sym")(options "")(descr ""))
+  (lib (name "TRS3243ECRHBR")(type "KiCad")(uri "C:/F drive/Ste/DEV/desk_controller/local_libraries/symbols/TRS3243ECRHBR.kicad_sym")(options "")(descr ""))
+  (lib (name "BD95831MUV-E2")(type "KiCad")(uri "C:/F drive/Ste/DEV/desk_controller/local_libraries/symbols/BD95831MUV-E2.kicad_sym")(options "")(descr ""))
+  (lib (name "BD95831MUV")(type "KiCad")(uri "C:/F drive/Ste/DEV/desk_controller/local_libraries/symbols/BD95831MUV.kicad_sym")(options "")(descr ""))
 )
