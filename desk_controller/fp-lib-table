@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "ISO7721DR")(type "KiCad")(uri "C:/F drive/Ste/DEV/desk_controller/local_libraries/footprints/ISO7721DR.pretty")(options "")(descr ""))
+  (lib (name "MTS-102-103")(type "KiCad")(uri "C:/F drive/Ste/DEV/desk_controller/local_libraries/footprints/MTS-102-103.pretty/MTS-102-103.pretty")(options "")(descr ""))
 )
