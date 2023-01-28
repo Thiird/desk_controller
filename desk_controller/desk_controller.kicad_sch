@@ -85,10 +85,10 @@
     (path "/801c2737-0768-4864-8479-1e0a84beff5f/2a9b66c9-096a-456e-b56f-ae96197ce808"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
-    (path "/801c2737-0768-4864-8479-1e0a84beff5f/ba0ce689-1932-4d3a-9586-c9e470f4d65a"
+    (path "/801c2737-0768-4864-8479-1e0a84beff5f/cad917e7-9d41-41b0-afd2-f7a88d82f2bf"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
-    (path "/801c2737-0768-4864-8479-1e0a84beff5f/c5944a52-0943-4689-8a2f-f8eec677a241"
+    (path "/801c2737-0768-4864-8479-1e0a84beff5f/7998417a-eb57-410c-a203-8ed899b13078"
       (reference "#PWR0111") (unit 1) (value "+12V") (footprint "")
     )
     (path "/d478e271-69ae-4db9-abd5-e3bbb9535bd9/81d71c74-5b35-4efb-8d5d-0a185c0a7df4"
@@ -257,13 +257,13 @@
       (reference "J3") (unit 1) (value "SWD_header") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/d478e271-69ae-4db9-abd5-e3bbb9535bd9/57175b43-d123-425b-bdf9-68264858b674"
-      (reference "J4") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "")
+      (reference "J4") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal")
+    )
+    (path "/801c2737-0768-4864-8479-1e0a84beff5f/cbb7f3d8-8e7f-45b3-a650-f14d1dd83c93"
+      (reference "J5") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal")
     )
     (path "/801c2737-0768-4864-8479-1e0a84beff5f/aa3243fc-76c6-4597-aebc-16c1137f1c03"
       (reference "L1") (unit 1) (value "3u3") (footprint "")
-    )
-    (path "/801c2737-0768-4864-8479-1e0a84beff5f/1605a441-3bae-4cad-95e0-c4dff9c1ed1c"
-      (reference "PS1") (unit 1) (value "IRM-60-12") (footprint "Converter_ACDC:Converter_ACDC_MeanWell_IRM-60-xx_THT")
     )
     (path "/d478e271-69ae-4db9-abd5-e3bbb9535bd9/af153fde-744b-43b9-9cf3-a5ac51a7c704"
       (reference "Q1") (unit 1) (value "RQ3E110AJ") (footprint "SOTFL65P330X80-8N:SOTFL65P330X80-8N")
