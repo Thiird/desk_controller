@@ -1,4 +1,4 @@
-20528259322972130
+20533285838898816
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+BWVS005050404R7M00
+BWVS005050404R7M00
+
+
+0
+2
+2
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -79148,6 +79155,20 @@ rotary encoder
 0
 5
 4
+SKRPACE010
+SW_SKRPACE010
+
+
+0
+4
+4
+SOTFL65P330X80-8N
+SOTFL65P330X80-8N
+
+
+0
+9
+3
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
