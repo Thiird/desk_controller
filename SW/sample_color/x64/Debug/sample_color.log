@@ -1,3 +1,0 @@
-﻿  sample_color.cpp
-C:\F drive\Ste\DEV\test\sample_color\sample_color.cpp(281,58): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
-  sample_color.vcxproj -> C:\F drive\Ste\DEV\test\sample_color\x64\Debug\sample_color.exe
